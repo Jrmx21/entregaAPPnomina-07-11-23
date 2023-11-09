@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Controlador","l":"ConnectionDB"},{"p":"Controlador","l":"Empleado"},{"p":"Controlador","l":"EmpleadoDAO"},{"p":"Controlador","l":"EmpleadoServlet"},{"p":"Controlador","l":"Nomina"},{"p":"Controlador","l":"Persona"}];updateSearchResults();
